@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\42191\\OneDrive\\Počítač\\Opengl-forest\\Forest-OpenGl\\Forest-OpenGl.csproj": {}
+    "C:\\Users\\42191\\OneDrive\\Počítač\\Tree-OpenTK\\Tree-OpenTK\\Forest-OpenGl\\Forest-OpenGl.csproj": {}
   },
   "projects": {
-    "C:\\Users\\42191\\OneDrive\\Počítač\\Opengl-forest\\Forest-OpenGl\\Forest-OpenGl.csproj": {
+    "C:\\Users\\42191\\OneDrive\\Počítač\\Tree-OpenTK\\Tree-OpenTK\\Forest-OpenGl\\Forest-OpenGl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\42191\\OneDrive\\Počítač\\Opengl-forest\\Forest-OpenGl\\Forest-OpenGl.csproj",
+        "projectUniqueName": "C:\\Users\\42191\\OneDrive\\Počítač\\Tree-OpenTK\\Tree-OpenTK\\Forest-OpenGl\\Forest-OpenGl.csproj",
         "projectName": "Forest-OpenGl",
-        "projectPath": "C:\\Users\\42191\\OneDrive\\Počítač\\Opengl-forest\\Forest-OpenGl\\Forest-OpenGl.csproj",
+        "projectPath": "C:\\Users\\42191\\OneDrive\\Počítač\\Tree-OpenTK\\Tree-OpenTK\\Forest-OpenGl\\Forest-OpenGl.csproj",
         "packagesPath": "C:\\Users\\42191\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\42191\\OneDrive\\Počítač\\Opengl-forest\\Forest-OpenGl\\obj\\",
+        "outputPath": "C:\\Users\\42191\\OneDrive\\Počítač\\Tree-OpenTK\\Tree-OpenTK\\Forest-OpenGl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\42191\\AppData\\Roaming\\NuGet\\NuGet.Config",

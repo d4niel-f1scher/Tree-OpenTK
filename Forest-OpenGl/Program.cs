@@ -7,7 +7,7 @@ namespace Forest_OpenGl
     {    
         static void Main(string[] args)
         {
-            int simulatedDays = 3000;
+            int simulatedDays = 1500;
             PineTree pineTree = new PineTree();
             Game.GameEngine gameEngine = new Game.GameEngine(GameWindowSettings.Default, NativeWindowSettings.Default, pineTree, simulatedDays);
 

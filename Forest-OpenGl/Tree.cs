@@ -6,11 +6,24 @@ using System.Threading.Tasks;
 
 namespace Forest_OpenGl
 {
-    public class Tree : IOrganism
+    class BranchPosition
+    {
+        public BranchPosition()
+        {
+
+        }
+        ~BranchPosition() 
+        { 
+        
+        }
+        public double height;
+        public double horizontalAngle;
+        public double verticalAngle;
+    }
+    abstract class Tree : IOrganism
     {
         protected virtual float height_increment { get; set; }
         protected virtual float radius_increment{ get; set; }
-        ~Tree() { }
         public
             float radius, height, pocet_konarov;
         public virtual
@@ -34,6 +47,7 @@ namespace Forest_OpenGl
             this.radius = radius;
             this.pocet_konarov = pocet_konarov;
         }
+        ~Tree() { }
         public void Grow()
         {
             radius = radius + radius_increment;
